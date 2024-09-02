@@ -108,6 +108,37 @@
                             <li>- Sleep Environment: Keep your bedroom cool, dark, and quiet</li>
                         </ul>
                     </div>
+                    <div class="pb-2">
+                        <h3 class="pb-4 text-2xl font-bold text-[#007db5]">
+                            Related products
+                        </h3>
+                        <div class="container flex justify-between max-w-6xl mx-auto space-x-4 flex-nowrap">
+                            <div class="text-center">
+                                <div class="bg-[#F0F2F5] rounded-lg w-60 h-60 flex items-center justify-center">
+                                    <img src="/images/moneyBack.png" alt="haha" class="w-auto h-auto max-w-full max-h-full">
+                                </div>
+                                <h4 class="pt-6 text-xl font-bold">Proteins</h4>
+                            </div>
+                            <div class="text-center">
+                                <div class="bg-[#F0F2F5] rounded-lg w-60 h-60 flex items-center justify-center">
+                                    <img src="/images/moneyBack.png" alt="haha" class="w-auto h-auto max-w-full max-h-full">
+                                </div>
+                                <h4 class="pt-6 text-xl font-bold">Proteins</h4>
+                            </div>
+                            <div class="text-center">
+                                <div class="bg-[#F0F2F5] rounded-lg w-60 h-60 flex items-center justify-center">
+                                    <img src="/images/moneyBack.png" alt="haha" class="w-auto h-auto max-w-full max-h-full">
+                                </div>
+                                <h4 class="pt-6 text-xl font-bold">Proteins</h4>
+                            </div>
+                            <div class="text-center">
+                                <div class="bg-[#F0F2F5] rounded-lg w-60 h-60 flex items-center justify-center">
+                                    <img src="/images/moneyBack.png" alt="haha" class="w-auto h-auto max-w-full max-h-full">
+                                </div>
+                                <h4 class="pt-6 text-xl font-bold">Proteins</h4>
+                            </div>
+                        </div>
+                    </div>
                     <div class="py-4 text-lg">
                         <h3 class="text-2xl font-bold">Manage Stress</h3>
                         <p class="pt-2">Stress Management Techniques</p>
@@ -210,12 +241,93 @@
                             Staying healthy after summer doesn't have to be a struggle. By setting new goals, adapting your routine to the season, eating nutritious foods, staying hydrated, finding a workout partner, prioritizing sleep, managing stress, staying active throughout the day, boosting your immune system, planning ahead for holiday indulgences, staying connected with your community, and embracing the outdoors, you can maintain your health and fitness throughout the year. Embrace these tips, and you'll find it easier to stay active and motivated, no matter the season. Remember, consistency is key, and making small, sustainable changes can lead to long-term success
                         </p>
                     </div>
-
-
-                    <div class="-space-y-1">
+                    <div class="pb-6 -space-y-1">
                         <p class="font-bold">Authored by <span class="text-[#007db5] italic">Patrik Borec Ševčík</span></p>
                         <p class="font-bold text-[#007db5]">Diet and healthy lifestyle</p>
                         <p class="font-bold">Saturday, 31. 08. 2024</p>
+                    </div>
+                    <div>
+                        <h4 class="text-3xl font-bold">Related blogs</h4>
+                        <div class="container max-w-6xl pt-4 mx-auto">
+                            <div class="flex">
+                                <div class="bg-[#F0F2F5] rounded-lg flex items-center justify-center max-w-sm mr-2">
+                                    <img src="/images/moneyBack.png" alt="haha" class="w-auto h-auto max-w-full max-h-full">
+                                </div>
+                                <div class="flex bg-[#F0F2F5] rounded-lg p-8 ml-2 w-full justify-between">
+                                    <div class="max-w-lg">
+                                        <h2 class="pb-4 text-3xl font-bold">
+                                            Fitness Recipe: Eggs Benedict with Hollandaise Sauce
+                                        </h2>
+                                        <p>
+                                            Want a high-end café breakfast? Yes, please. These eggs Benedict with Hollandaise have it all. The combination of a fluffy soft bun with a runny yolk and creamy sauce is simply irresistible.
+                                        </p>
+                                    </div>
+                                    <div class="flex items-end">
+                                        <button class="bg-[#1D6EC1] text-white rounded-lg px-5 py-3">
+                                            <a href="/views/SingleBlog.vue">Read More</a>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="container max-w-6xl pt-4 pb-12 mx-auto">
+                            <div class="flex">
+                                <div class="bg-[#F0F2F5] rounded-lg flex items-center justify-center max-w-sm mr-2">
+                                    <img src="/images/moneyBack.png" alt="haha" class="w-auto h-auto max-w-full max-h-full">
+                                </div>
+                                <div class="flex bg-[#F0F2F5] rounded-lg p-8 ml-2 w-full justify-between">
+                                    <div class="max-w-lg">
+                                        <h2 class="pb-4 text-3xl font-bold">
+                                            Fitness Recipe: Eggs Benedict with Hollandaise Sauce
+                                        </h2>
+                                        <p>
+                                            Want a high-end café breakfast? Yes, please. These eggs Benedict with Hollandaise have it all. The combination of a fluffy soft bun with a runny yolk and creamy sauce is simply irresistible.
+                                        </p>
+                                    </div>
+                                    <div class="flex items-end">
+                                        <button class="bg-[#1D6EC1] text-white rounded-lg px-5 py-3">
+                                            <a href="/views/SingleBlog.vue">Read More</a>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flex justify-center py-4">
+                        <form class="w-full max-w-lg">
+                            <h4 class="pb-6 text-3xl font-bold">Leave a comment</h4>
+                            <div class="flex flex-wrap -mx-3">
+                                <div class="w-full px-3 mb-6 md:w-1/2 md:mb-0">
+                                    <label class="block mb-2 text-sm font-medium text-gray-900" for="grid-first-name">
+                                        First Name <span class="text-gray-400">(required)</span>
+                                    </label>
+                                    <input class="block w-full px-4 py-3 mb-3 leading-tight text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 focus:outline-none" id="grid-first-name" type="text" placeholder="Jane" required>
+                                </div>
+                                <div class="w-full px-3 md:w-1/2">
+                                    <label class="block mb-2 text-sm font-medium text-gray-900" for="grid-last-name">
+                                        Last Name <span class="text-gray-400">(required)</span>
+                                    </label>
+                                    <input class="block w-full px-4 py-3 leading-tight text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 focus:outline-none" id="grid-last-name" type="text" placeholder="Doe" required>
+                                </div>
+                            </div>
+                            <div class="flex flex-wrap mb-3 -mx-3">
+                                <div class="w-full px-3">   
+                                    <label for="message" class="block mb-2 text-sm font-medium text-gray-900">Comment</label>
+                                    <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500" placeholder="Write your comment here" required></textarea>
+                                </div>
+                            </div>
+                            <div class="flex items-center justify-between mb-4">
+                                <div class="flex items-center">
+                                    <input id="default-checkbox" type="checkbox" value="" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                    <label for="default-checkbox" class="text-sm font-light text-gray-900 ms-2 dark:text-gray-300">Notify me of new comments on this post by email</label>
+                                </div>
+                                <button class="bg-[#1D6EC1] text-white rounded-lg px-5 py-3" type="submit">
+                                    Post Comment
+                                </button>
+                            </div>
+                        </form>
                     </div>
                 </div>
             </div>

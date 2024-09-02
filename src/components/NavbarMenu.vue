@@ -1,7 +1,7 @@
 <template>
     <div class="bg-[#232F3E] text-[#FFFFFF] py-4">
         <div class="container flex items-center justify-between max-w-6xl mx-auto">
-            <div class="text-4xl font-bold"><a href="/" class="font-bold">LOGOOO</a></div>
+            <div class="text-4xl font-bold"><a href="/" class="font-bold">LOGO</a></div>
             <div class="flex flex-col">
                 <div class="relative -mx-8">
                     <div class="absolute inset-y-0 flex items-center pointer-events-none start-0 ps-3">
